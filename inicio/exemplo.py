@@ -1,4 +1,6 @@
 print("Iniciando estudos em Agentes IA")
+curso = "Python para Agentes Inteligentes"
+print(f"Curso: {curso}")
 
 # Dois tipos de arquivos ao trabalhar com Python: .py e .ipynb
 # .py: arquivo de código Python puro
