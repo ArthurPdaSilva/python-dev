@@ -15,3 +15,4 @@ print(f"Curso: {curso}")
 # Para ativar o ambiente virtual no Windows: source .venv/Scripts/activate
 # Para salvar as dependências do projeto: pip freeze > requirements.txt
 # Para instalar as dependências do projeto: pip install -r requirements.txt
+# git push -u origin main
