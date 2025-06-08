@@ -1,0 +1,20 @@
+Um agente IA é uma espécie de raciocínio automatizado que toma decisões e executar ações com base em contextos fornecidos. 
+
+Modelos Tradicionais x Agentes IA:
+- **Modelos Tradicionais**: Processam entradas e produzem saídas sem considerar o contexto ou a situação atual.
+- **Agentes IA**: Avaliam o contexto, aprendem com experiências passadas e adaptam suas ações para otimizar resultados.
+
+Níveis de IA segundo a OpenAI:
+- ChatBots: Interagem com usuários em linguagem natural, respondendo perguntas e realizando tarefas simples.
+- Raciocinadores: Realizam análises complexas, resolvendo problemas e tomando decisões baseadas em dados. 
+- Agentes Inteligentes: Operam de forma autônoma, aprendendo e adaptando-se continuamente ao ambiente e às necessidades dos usuários.
+
+Tipos de Agentes IA:
+- Reflexo Simples: Reagem a estímulos imediatos sem considerar o contexto. (Sem memória)
+- Reflexo Baseado em Modelo: Considera o contexto atual e passado para tomar decisões. (Com memória) 
+- Agente de Aprendizagem: Aprende com experiências passadas e ajusta seu comportamento. (Com memória e aprendizado)
+- Agente baseado em Objetivos: Define metas e toma ações para alcançá-las, avaliando o ambiente. (Com memória e objetivos)
+- Agente Hierárquico: Organiza tarefas em níveis, permitindo uma abordagem mais estruturada e eficiente. (Com memória e hierarquia)
+
+
+Diferenciação entre Agentes IA:
