@@ -15,6 +15,6 @@ Tipos de Agentes IA:
 - Agente de Aprendizagem: Aprende com experiências passadas e ajusta seu comportamento. (Com memória e aprendizado)
 - Agente baseado em Objetivos: Define metas e toma ações para alcançá-las, avaliando o ambiente. (Com memória e objetivos)
 - Agente Hierárquico: Organiza tarefas em níveis, permitindo uma abordagem mais estruturada e eficiente. (Com memória e hierarquia)
-
+- Agente robótico: Interage com o ambiente físico, realizando tarefas específicas. (Com memória e interação física)
 
 Diferenciação entre Agentes IA:
