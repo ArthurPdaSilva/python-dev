@@ -1,0 +1,24 @@
+O LlamaIndex é um índice de documentos que permite a busca eficiente de informações em grandes volumes de texto. Ele é projetado para ser usado com modelos de linguagem, como o Llama 2, e pode ser integrado com ferramentas como o LangChain para facilitar a construção de aplicações de busca.
+
+Faz um meio de campo entre o modelo de linguagem e os dados, permitindo que o modelo acesse informações relevantes de forma rápida e eficiente. O LlamaIndex pode ser usado para criar aplicações de busca personalizadas, chatbots, assistentes virtuais e muito mais.
+
+De forma leiga, o LlamaIndex funciona como um intermediário que organiza e indexa grandes quantidades de texto, permitindo que você faça perguntas e obtenha respostas de forma rápida. Ele é útil para quem precisa lidar com muitos dados textuais e quer encontrar informações específicas sem ter que ler tudo manualmente.
+
+
+Ingestão e Indexação de Dados:
+ - Ingestão de dados: Conecta e prepara as fontes de dados 
+ - Indexação: Cria um índice pesquisável a partir dos dados ingeridos
+ - Consulta: Permite que os usuários façam perguntas e obtenham respostas baseadas no índice
+
+
+
+Tipos de Indexação:
+ - Texto Livre: Indexa grandes volumes de textos para consultas baseadas em palavras-chave ou contexto.
+ - Incremental: Atualiza o índice com novos dados sem precisar reindexar tudo.
+ - Hierárquica: Organiza os dados em uma estrutura hierárquica para consultas mais complexas.
+
+
+Métodos de aplicação:
+ - RAG (Retrieval-Augmented Generation): Combina a geração de texto com consultas em tempo real para fornecer respostas mais precisas usando bases externas. (Fine-tuning): Ajusta o modelo com dados específicos para melhorar a relevância das respostas.
+ - Fine-tuning: Ajusta o modelo com dados específicos para melhorar a relevância das respostas. Retreinar o modelo com dados específicos para melhorar a relevância das respostas. 
+ - Agentes: Utiliza agentes autônomos para realizar tarefas específicas, como busca de informações ou execução de ações baseadas em consultas.
