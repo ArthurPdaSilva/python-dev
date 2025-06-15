@@ -1,0 +1,21 @@
+ID,Endereço,Preço,Quartos,Banheiros,Metragem,Tipo
+1,"Avenida Paulista, 101 - São Paulo",1841815,4,2,170,Studio
+2,"Avenida Brasil, 456 - Rio de Janeiro",1014577,4,1,114,Studio
+3,"Rua das Palmeiras, 123 - São Paulo",1933242,2,4,215,Apartamento
+4,"Rua das Palmeiras, 123 - São Paulo",391614,5,2,201,Sobrado
+5,"Avenida Paulista, 101 - São Paulo",261557,2,4,47,Apartamento
+6,"Avenida Brasil, 456 - Rio de Janeiro",1629468,5,3,149,Sobrado
+7,"Avenida Paulista, 101 - São Paulo",231010,1,3,170,Studio
+8,"Avenida Brasil, 456 - Rio de Janeiro",302242,1,4,242,Cobertura
+9,"Avenida Paulista, 101 - São Paulo",702432,2,2,197,Apartamento
+10,"Avenida Paulista, 101 - São Paulo",1593335,4,1,247,Cobertura
+11,"Avenida Paulista, 101 - São Paulo",644435,4,3,230,Studio
+12,"Rua XV de Novembro, 789 - Curitiba",1805865,4,3,276,Casa
+13,"Rua dos Andradas, 303 - Porto Alegre",483693,5,1,203,Cobertura
+14,"Avenida Brasil, 456 - Rio de Janeiro",1395653,2,2,227,Apartamento
+15,"Rua das Palmeiras, 123 - São Paulo",1445334,1,1,167,Studio
+16,"Rua XV de Novembro, 789 - Curitiba",966938,4,4,271,Casa
+17,"Avenida Brasil, 456 - Rio de Janeiro",1312730,3,3,155,Cobertura
+18,"Avenida Brasil, 456 - Rio de Janeiro",976852,4,1,225,Cobertura
+19,"Avenida Paulista, 101 - São Paulo",216259,5,1,275,Sobrado
+20,"Rua dos Andradas, 303 - Porto Alegre",1974091,3,3,194,Studio
