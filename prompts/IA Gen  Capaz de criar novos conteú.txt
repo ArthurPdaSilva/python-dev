@@ -1,0 +1,43 @@
+IA Gen > Capaz de criar novos conteúdos
+Prompt 
+	> É a forma que enviamos instruções para a IA
+	> São essenciais para interagir com modelos de linguagem
+	>  Tipos:
+		> Textual
+		> Texto para imagens
+		> Imagens para texto
+		> Áudio
+		> Vídeos
+Características dos Prompts:
+	> Alucinação: produção de informações enganosas ou incorretas
+	> Maximizar a eficácia dos modelos e reduzir alucinações
+
+Fortificando os prompts:	
+	> Especificidade
+	> Contextualize
+	> Iteratividade
+	> Palavras chaves
+	> Estrutura lógica e coerente
+
+Componentes de um prompts
+	> Função ou papel (role): Persona do agente
+	> Diretiva: Intenção, ação
+	> Contexto
+	> Estilo
+	> Formato da saída
+
+
+Técnicas:
+	> Zero-shot: Não precisa de contexto, pois bastante llms são treinados com grandes quantidades de dados
+	> Few-shot: Passando exemplos básicos, com exemplos e explicando com demonstrações a diretiva que queremos que ele tenha
+	> Chain of throught: Pedir para o llm explicar como chegou naquela solução passo a passo e como ele chegou
+	> Contextual Prompting: Forncer um contexto claro e relevante ao modelo sobre o que a llm precisa fazer
+	> Style-Specing: Esilo de retorno 
+	> Lenght Limitation: Limitando o tamanho do prompt
+	> Step by Step: Explique passo a passo sobre alguma coisa
+	> Definition or Exemplification: Criar definições de algo ou exemplos
+
+
+Aplicações:
+	> Generation Data
+	> Generation Code
