@@ -1,0 +1,11 @@
+RAG Etapas
+1 - Carregamento dos dados (ingestão)
+   - Fontes: PDF, CSV, TXT, DOCX, etc.
+   - Ferramentas: LangChain, PyPDF2, Pandas, etc.
+2 - Processamento dos dados (quebrando em pedaços - Text Split)
+3 - Criação do índice (embeddings) - Embeddings é a representação vetorial dos dados e a busca passa a ser feita por similaridade, por isso ele é tão performático.
+   - Ferramentas: LangChain, OpenAI, Hugging Face, etc.
+   - Modelos: OpenAI, BERT, etc.
+4 - Armazenamento do índice
+5 - Consulta ao índice (query) - Retrieval
+   - Ferramentas: LangChain, Pinecone, Weaviate, etc.
