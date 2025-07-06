@@ -3,5 +3,6 @@
 executavel.bat
 .env
 /files
+/arquivos
 ffmpeg.exe
 ffprobe.exe
