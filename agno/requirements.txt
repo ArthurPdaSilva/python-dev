@@ -1,0 +1,8 @@
+openai
+python-dotenv
+yfinance
+agno
+streamlit
+fastapi
+uvicorn
+youtube_transcript_api

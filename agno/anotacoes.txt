@@ -1,0 +1,53 @@
+Agno é uma biblioteca leve e de fácil utilização para desenvolvimento em Python com recursos avançados de manipulação de dados, como leitura e escrita de arquivos, manipulação de strings, e muito mais. É ideal para quem busca simplicidade e eficiência em suas aplicações.
+
+
+Tipos de agentes:
+- Raciocinio lógico: Agentes que tomam decisões baseadas em regras lógicas e deduções.
+- Multimodais: Agentes que utilizam múltiplos modos de interação, como texto, voz e imagem.
+- Equipes de agentes: Conjuntos de agentes que trabalham juntos para resolver problemas complexos.
+- Fluxos de trabalho: Agentes que automatizam processos e tarefas repetitivas, integrando diferentes sistemas e serviços.
+
+Interface do usuário:
+- Agno Playground: Uma interface interativa para experimentar e testar os agentes da biblioteca Agno.
+
+API Integrada com:
+- FastAPI: Para criação de APIs rápidas e eficientes.
+- Velocidade: Deploy fast 
+- Segurança: Segurança integrada para proteger os dados e as operações dos agentes.
+- Customização: Permite personalizar o comportamento dos agentes de acordo com as necessidades do usuário.
+
+
+Monitoramento e avaliação:
+- Ferramentas de monitoramento: Para acompanhar o desempenho dos agentes e identificar possíveis melhorias.
+
+
+Funcionalidades:
+- 23+ Provedores: Integração com diversos provedores de serviços e dados para ampliar as capacidades dos agentes.
+- Flexibilidade total
+
+Reasoning (Raciocínio):
+- Modelos de reasoning: Agentes que utilizam modelos de raciocínio lógico para tomar decisões informadas.
+- ReasoningTools: Ferramentas para auxiliar no raciocínio lógico e na tomada de decisões dos agentes.
+- Cadeia de Pensamento: Estruturas que permitem aos agentes seguir uma linha de raciocínio lógica para resolver problemas complexos.
+
+Capacidades Multimodais nativas:
+- Texto, Imagem, Vídeo e Áudio: Suporte para múltiplos formatos de dados, permitindo que os agentes interajam de forma mais rica e diversificada.
+
+Arquitetura Multiagente: 
+- Roteamento: 
+  - Roteamento de mensagens entre agentes para facilitar a comunicação e colaboração.
+- Modo de colaboração:
+  - Colaboração entre agentes para resolver problemas complexos de forma mais eficiente.
+- Coordenação:
+  - Coordenação de tarefas entre agentes para otimizar o desempenho e a eficiência.
+
+Saídas estruturadas:
+JSON Tipado:
+- Estruturas de dados tipadas em JSON para facilitar a manipulação e o intercâmbio de informações entre agentes e sistemas.
+- Schemas personalizados:
+  - Permite definir esquemas personalizados para os dados manipulados pelos agentes, garantindo consistência e integridade.
+- Integração simples: Conecte-se facilmente com outros sistemas e serviços utilizando JSON tipado.
+
+Rotas FastAPI pré-definidas
+Equipes de agentes
+Fluxo de trabalho
