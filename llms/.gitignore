@@ -1,0 +1,7 @@
+.ipynb_checkpoints
+.venv
+executavel.bat
+.env
+/files
+ffmpeg.exe
+ffprobe.exe

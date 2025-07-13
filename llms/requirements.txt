@@ -1,0 +1,14 @@
+ipykernel
+ipywidgets
+python-dotenv
+langchain
+langchain-community
+groq
+langchain-groq
+google-generativeai
+langchain-google-genai
+google-genai
+mistralai
+langchain-mistralai
+cohere
+langchain-cohere
